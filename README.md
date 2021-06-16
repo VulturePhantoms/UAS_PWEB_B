@@ -1,3 +1,3 @@
 # UAS_PWEB_B
-Arif Rohman Afandi 192410101087
-Masyhuri Farhan 192410101098 
+1. Arif Rohman Afandi 192410101087
+2. Masyhuri Farhan 192410101098 
